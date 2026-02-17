@@ -1,0 +1,7 @@
+{
+  "remoteURL": "https://github.com/data-massuia/obsidian_vault.git",
+  "gitLocation": "",
+  "syncinterval": 20,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
