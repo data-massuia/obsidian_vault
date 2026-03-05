@@ -1,4 +1,4 @@
-## Phase 1: Preparation & Creating Reference Files
+##Phase 1: Preparation & Creating Reference Files
 
 Before building a skill, you must define the ideal step-by-step process, identify necessary tools, and gather good output examples, as these have the biggest impact on performance.
 
