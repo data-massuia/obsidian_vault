@@ -44,19 +44,9 @@
               "icon": "lucide-file",
               "title": "Day Planner Release 0.28.0"
             }
-          },
-          {
-            "id": "7d8ac252502cc1cf",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Mar, 4–Mar, 6"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,12 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Learning/How to Build Better Claude Skills.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of How to Build Better Claude Skills"
             }
           },
           {
@@ -220,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -241,7 +232,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "7d8ac252502cc1cf",
+  "active": "e9ee1d7f6edb7126",
   "lastOpenFiles": [
     "Learning/How to Build Better Claude Skills.md",
     "Learning/Claude Main Features.md",
