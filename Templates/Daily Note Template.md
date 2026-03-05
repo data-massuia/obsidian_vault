@@ -21,13 +21,13 @@ week: <% tp.date.now("ww") %>
 ## ✅ Tasks
 
 ```dataview
-TABLE WITHOUT ID 
-	regexreplace(text, " #td.*", "") AS "Task",
-	choice(time, time, "Flexible") AS "Time"
+TASK
 FROM #td
 WHERE !completed AND due <= date(today)
-SORT time ASC, text ASC
+SORT due ASC
 ```
+
+- [ ] 
 
 ## 📝 Daily Log
 
