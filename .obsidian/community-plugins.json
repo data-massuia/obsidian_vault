@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "github-sync"
+  "github-sync",
+  "obsidian-day-planner"
 ]

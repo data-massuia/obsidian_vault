@@ -34,9 +34,29 @@
               "icon": "lucide-file",
               "title": "How to Build Better Claude Skills"
             }
+          },
+          {
+            "id": "e9ee1d7f6edb7126",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.28.0"
+            }
+          },
+          {
+            "id": "7d8ac252502cc1cf",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Mar, 4–Mar, 6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,13 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/How to Build Better Claude Skills.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Build Better Claude Skills"
+              "title": "Outline"
             }
           },
           {
@@ -188,6 +207,16 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "calendar"
+            }
+          },
+          {
+            "id": "4a5e9ec002dc6807",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -207,13 +236,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "3633f3334b0c6717",
+  "active": "7d8ac252502cc1cf",
   "lastOpenFiles": [
-    "Learning/Claude Main Features.md",
     "Learning/How to Build Better Claude Skills.md",
+    "Learning/Claude Main Features.md",
     "Youtube/Untitled.md",
     "Learning/Claude Learning.md",
     "Youtube",
