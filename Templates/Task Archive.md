@@ -1,6 +1,6 @@
 <%*
 const inboxPath = "Templates/Task Inbox.md";
-const archivePath = "Templates/Task Archive.md";
+const archivePath = "Templates/Tasks Completed.md";
 
 const inbox = app.vault.getAbstractFileByPath(inboxPath);
 const archive = app.vault.getAbstractFileByPath(archivePath);
@@ -26,4 +26,3 @@ if (completed.length === 0) {
     new Notice(completed.length + " task(s) archived!");
 }
 %>
-- [x] Meditate 2 #td  [repeat:: every day]  [due:: 2026-03-26]  [completion:: 2026-03-06] (archived: 2026-03-06)
