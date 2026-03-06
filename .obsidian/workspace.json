@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Archive.md",
+                "file": "Templates/Task Archive.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Archive.md",
+                "file": "Templates/Task Archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,10 +242,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "599bb8a6318ecb32",
+  "active": "baf156b872809e86",
   "lastOpenFiles": [
-    "Task Inbox.md",
-    "Task Archive.md",
+    "Templates/Task Inbox.md",
+    "Templates/Task Archive.md",
     "00 Daily 2026/2026-03-06.md",
     "00 Daily 2026/2026-03-05.md",
     "Templates/Daily Note Template.md",
