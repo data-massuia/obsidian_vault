@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#td",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,8 +246,8 @@
   "active": "baf156b872809e86",
   "lastOpenFiles": [
     "00 Daily 2026/2026-03-06.md",
-    "00 Daily 2026/2026-03-05.md",
     "Task Inbox.md",
+    "00 Daily 2026/2026-03-05.md",
     "Templates/Daily Note Template.md",
     "Templates/Daily Note Template_2.md",
     "Learning/How to Build Better Claude Skills.md",
