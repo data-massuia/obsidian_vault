@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Inbox.md",
+                "file": "Task Archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Inbox"
+              "title": "Task Archive"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#td",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Inbox.md",
+                "file": "Task Archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Task Inbox"
+              "title": "Outline of Task Archive"
             }
           },
           {
@@ -243,10 +242,11 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "baf156b872809e86",
+  "active": "599bb8a6318ecb32",
   "lastOpenFiles": [
-    "00 Daily 2026/2026-03-06.md",
     "Task Inbox.md",
+    "Task Archive.md",
+    "00 Daily 2026/2026-03-06.md",
     "00 Daily 2026/2026-03-05.md",
     "Templates/Daily Note Template.md",
     "Templates/Daily Note Template_2.md",
