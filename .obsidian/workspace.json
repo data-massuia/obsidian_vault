@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Task Archive.md",
+                "file": "Templates/Task Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Archive"
+              "title": "Task Inbox"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Claude Learning.md",
+                "file": "Templates/Task Inbox.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Claude Learning"
+              "title": "Backlinks for Task Inbox"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Templates/Task Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Task Inbox"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Task Archive.md",
+                "file": "Templates/Task Inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Task Archive"
+              "title": "Outline of Task Inbox"
             }
           },
           {
@@ -206,8 +206,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -244,9 +244,9 @@
   },
   "active": "baf156b872809e86",
   "lastOpenFiles": [
+    "00 Daily 2026/2026-03-06.md",
     "Templates/Task Inbox.md",
     "Templates/Task Archive.md",
-    "00 Daily 2026/2026-03-06.md",
     "00 Daily 2026/2026-03-05.md",
     "Templates/Daily Note Template.md",
     "Templates/Daily Note Template_2.md",

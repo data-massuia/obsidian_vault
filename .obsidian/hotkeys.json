@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Templates/Task Archive.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ]
+}
