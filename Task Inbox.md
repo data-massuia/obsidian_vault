@@ -2,7 +2,8 @@ q# Inbox
 
 ## Daily Tasks
 
-- [ ] Drink 2L of Water #td [due:: 2026-03-05] [repeat:: every day]
+- [ ] Drink 2L of Water #td  [repeat:: every day]  [due:: 2026-03-06]
+- [x] Drink 2L of Water #td  [repeat:: every day]  [due:: 2026-03-05]  [completion:: 2026-03-06]
 - [ ] Stretch #td [due:: 2026-03-05] [repeat:: every day]
 - [ ] Meditate 1 #td [due:: 2026-03-05] [repeat:: every day]
 - [ ] Meditate 2 #td [due:: 2026-03-05] [repeat:: every day]
