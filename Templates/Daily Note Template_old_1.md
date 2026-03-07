@@ -1,13 +1,13 @@
 ---
-created: 2026-03-05
+created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - daily-notes
-week: 10
+week: <% tp.date.now("ww") %>
 ---
-	
-# Thursday, March 05, 2026
 
-[[2026-03-04|← Yesterday]] | [[2026-03-06|Tomorrow →]]
+# <% tp.date.now("dddd, MMMM DD, YYYY") %>
+
+[[<% tp.date.now("YYYY-MM-DD", -1) %>|← Yesterday]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>|Tomorrow →]]
 
 ## 🌅 Morning Intentions
 
@@ -26,6 +26,8 @@ FROM #td
 WHERE !completed AND due <= date(today)
 SORT due ASC
 ```
+
+- [ ] 
 
 ## 📝 Daily Log
 
@@ -60,7 +62,7 @@ SORT due ASC
 ```dataview
 LIST
 FROM ""
-WHERE file.cday = date("2026-03-05")
+WHERE file.cday = date("{{date:YYYY-MM-DD}}")
 SORT file.ctime DESC
 ```
 
@@ -68,11 +70,11 @@ SORT file.ctime DESC
 ```dataview
 LIST
 FROM ""
-WHERE file.mday = date("2026-03-05")
-AND file.cday != date("2026-03-05")
+WHERE file.mday = date("{{date:YYYY-MM-DD}}")
+AND file.cday != date("{{date:YYYY-MM-DD}}")
 SORT file.mtime DESC
 ```
 
 ---
 
-**Links:** [[Weekly Notes/2026-W10|This Week]] | [[Monthly Notes/2026-03|This Month]]
+**Links:** [[Weekly Notes/{{date:YYYY-[W]ww}}|This Week]] | [[Monthly Notes/{{date:YYYY-MM}}|This Month]]
