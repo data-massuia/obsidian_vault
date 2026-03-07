@@ -105,35 +105,35 @@
 
 ## 🌅 Habits
 
-- [ ] Wake Up on Schedule #td #habits [due:: 2026-03-06] [repeat:: every day]
-- [ ] Breakfast #td #habits [due:: 2026-03-06] [repeat:: every day]
-- [ ] Water 2L #td #habits [due:: 2026-03-06] [repeat:: every day]
-- [ ] Vitamins #td #habits [due:: 2026-03-06] [repeat:: every day]
-- [ ] Lunch #td #habits [due:: 2026-03-06] [repeat:: every day]
-- [ ] Dinner #td #habits [due:: 2026-03-06] [repeat:: every day]
-- [ ] Floss Teeth #td #habits [due:: 2026-03-06] [repeat:: every day]
-- [ ] Sleep on Schedule #td #habits [due:: 2026-03-06] [repeat:: every day]
+- [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-07]
 
 ## 🧠 Mental & Focus
 
-- [ ] Morning Journal #td #mental [due:: 2026-03-06] [repeat:: every day]
-- [ ] Review Tomorrow's Calendar #td #mental [due:: 2026-03-06] [repeat:: every day]
-- [ ] Weekly Review #td #mental [due:: 2026-03-08] [repeat:: every week on Sunday]
-- [ ] Refazer a Lista #td #mental [due:: 2026-03-06] [repeat:: every day]
-- [ ] Calendar #td #mental [due:: 2026-03-06] [repeat:: every day]
+- [ ] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-08]
+- [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-07]
 
 ## 💪 Body & Health
 
-- [ ] Stretch / Mobility #td #health [due:: 2026-03-06] [repeat:: every day]
-- [ ] Weigh In #td #health [due:: 2026-03-06] [repeat:: every day]
+- [ ] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Weigh In #td #health  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] Run #td #health [due:: 2026-03-10] [repeat:: every week on Tuesday]
-- [ ] Workout #td #health [due:: 2026-03-09] [repeat:: every week on Monday, Wednesday, Thursday, Saturday]
-- [ ] Walk Tofu #td #health [due:: 2026-03-06] [repeat:: every day]
+- [ ] Workout #td #health [due:: 2026-03-07] [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]
+- [ ] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-07]
 
 ## 👨‍👩‍👧 Family & Relationships
 
-- [ ] Quality Time with Baby #td #family [due:: 2026-03-06] [repeat:: every day]
-- [ ] Date Night with Julia #td #family [due:: 2026-03-07] [repeat:: every 2 weeks on Saturday]
+- [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Date Night with Julia #td #family  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
 - [ ] Massagem Julia #td #family [due:: 2026-03-09] [repeat:: every week on Sunday]
 - [ ] Call Mother #td #family [due:: 2026-03-08] [repeat:: every week on Sunday]
 
@@ -166,5 +166,5 @@
 
 ## 🚀 Career & Growth
 
-- [ ] Read / Listen 20 min #td #growth [due:: 2026-03-06] [repeat:: every day]
+- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] LinkedIn Post or Note #td #growth [due:: 2026-03-09] [repeat:: every week on Monday]
