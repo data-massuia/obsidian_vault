@@ -105,8 +105,8 @@
 
 ## 🌅 Habits
 
-- [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-07]
-- [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-08]
+- [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-08]
 - [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-07]
@@ -119,8 +119,8 @@
 - [ ] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-08]
-- [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-07]
-- [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-08]
+- [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-08]
 
 ## 💪 Body & Health
 
@@ -139,15 +139,14 @@
 
 ## 🏠 Housekeeping
 
-- [ ] Do the Laundry #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
+- [ ] Do the Laundry #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Take out the Trash #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
 - [ ] Water Plants #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
-- [ ] Clean Waterfountain / Food Bowls #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
+- [ ] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Margot Box #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
 - [ ] Mop the Floors #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
-- [ ] Desinfect Garbage Cans #td #house [due:: 2026-03-07] [repeat:: every 2 weeks on Saturday]
-- [ ] Change the Pajamas #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
-- [ ] Clean SandBox, Change Sand #td #house [due:: 2026-03-08] [repeat:: every 2 weeks on Sunday]
+- [ ] Desinfect Garbage Cans #td #house  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
+- [ ] Clean SandBox, Change Sand #td #house  [repeat:: every 2 weeks on Sunday]  [due:: 2026-03-22]
 - [ ] Weekly Meal Prep #td #house [due:: 2026-03-08] [repeat:: every week on Sunday]
 - [ ] Closet Organization #td #house [due:: 2026-03-08] [repeat:: every month on Sunday]
 - [ ] Wash Windows #td #house [due:: 2026-03-08] [repeat:: every month on Sunday]
@@ -168,3 +167,4 @@
 
 - [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] LinkedIn Post or Note #td #growth [due:: 2026-03-09] [repeat:: every week on Monday]
+
