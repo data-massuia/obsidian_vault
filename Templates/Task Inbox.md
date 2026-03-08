@@ -108,8 +108,8 @@
 - [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-08]
 - [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-08]
 - [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-07]
-- [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-07]
-- [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-08]
+- [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-08]
 - [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-07]
 - [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-07]
@@ -132,7 +132,7 @@
 
 ## 👨‍👩‍👧 Family & Relationships
 
-- [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-08]
 - [ ] Date Night with Julia #td #family  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
 - [ ] Massagem Julia #td #family [due:: 2026-03-09] [repeat:: every week on Sunday]
 - [ ] Call Mother #td #family [due:: 2026-03-08] [repeat:: every week on Sunday]
@@ -140,7 +140,7 @@
 ## 🏠 Housekeeping
 
 - [ ] Do the Laundry #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
-- [ ] Take out the Trash #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
+- [ ] Take out the Trash #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Water Plants #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
 - [ ] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Margot Box #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
@@ -165,6 +165,7 @@
 
 ## 🚀 Career & Growth
 
-- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-07]
+- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-08]
 - [ ] LinkedIn Post or Note #td #growth [due:: 2026-03-09] [repeat:: every week on Monday]
+
 

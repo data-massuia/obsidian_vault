@@ -25,3 +25,8 @@
 - [x] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-07]  [completion:: 2026-03-07] (archived: 2026-03-07)
 - [x] Desinfect Garbage Cans #td #house  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-07]  [completion:: 2026-03-07] (archived: 2026-03-07)
 - [x] Clean SandBox, Change Sand #td #house  [repeat:: every 2 weeks on Sunday]  [due:: 2026-03-08]  [completion:: 2026-03-07] (archived: 2026-03-07)
+- [x] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-07]  [completion:: 2026-03-07] (archived: 2026-03-08)
+- [x] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-07]  [completion:: 2026-03-07] (archived: 2026-03-08)
+- [x] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-07]  [completion:: 2026-03-07] (archived: 2026-03-08)
+- [x] Take out the Trash #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-07]  [completion:: 2026-03-07] (archived: 2026-03-08)
+- [x] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-07]  [completion:: 2026-03-07] (archived: 2026-03-08)
