@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Task Inbox.md",
+                "file": "00 Daily 2026/2026-03-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Inbox"
+              "title": "2026-03-09"
             }
           },
           {
@@ -231,10 +231,11 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "599bb8a6318ecb32",
+  "active": "e657c28598b2a6ad",
   "lastOpenFiles": [
-    "00 Daily 2026/2026-03-07.md",
     "Templates/Task Inbox.md",
+    "00 Daily 2026/2026-03-09.md",
+    "00 Daily 2026/2026-03-07.md",
     "Templates/Daily Note Template.md",
     "Templates/Task Archive.md",
     "Templates/Tasks Completed.md",
