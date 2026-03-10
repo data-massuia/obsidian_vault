@@ -8,6 +8,13 @@ tR += "# 📅 " + tp.date.now("dddd, MMMM DD YYYY") + "\n\n---\n\n## 🗓 Today'
 ```dataview
 TASK
 FROM #td
-WHERE !completed AND due <= date(today)
+WHERE !completed AND due = date(today)
+SORT due ASC
+```
+## Past Activities
+```dataview
+TASK
+FROM #td
+WHERE !completed AND due < date(today)
 SORT due ASC
 ```
