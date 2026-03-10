@@ -178,7 +178,7 @@
 
 - [x]  2026 Goals v 1 chat #work
 - [x] #work 1:1 Dishank
-- [ ] Revamp Customer Count Sheet #work 
+- [ ] #work Revamp Customer Count Sheet 
 - [x] #work Call with Chelsea
 - [ ] #work Set Goals v2 for this week
 - [x] #work Set call with Dalyn
