@@ -106,7 +106,6 @@
 ## 🌅 Habits
 
 - [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-11]
-- [x] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
 - [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-10]
@@ -115,9 +114,7 @@
 - [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-11]
-- [x] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
 - [ ] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-11]
-- [x] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
 
 ## 🧠 Mental & Focus
 
@@ -125,9 +122,7 @@
 - [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-15]
 - [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-11]
-- [x] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
 - [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-11]
-- [x] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
 
 ## 💪 Body & Health
 
@@ -175,6 +170,7 @@
 
 - [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday] [due:: 2026-03-15] 
+
 
 
 

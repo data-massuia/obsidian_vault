@@ -91,3 +91,8 @@
 - [x] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday]  [completion:: 2026-03-09] (archived: 2026-03-10)
 - [x] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-09]  [completion:: 2026-03-11] (archived: 2026-03-10)
 - [x] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-09]  [completion:: 2026-03-10] (archived: 2026-03-10)
+- [x] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10] (archived: 2026-03-10)
+- [x] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10] (archived: 2026-03-10)
+- [x] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10] (archived: 2026-03-10)
+- [x] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10] (archived: 2026-03-10)
+- [x] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10] (archived: 2026-03-10)
