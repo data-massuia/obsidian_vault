@@ -116,7 +116,8 @@
 - [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-11]
 - [x] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
-- [ ] Care of Nails  #td #habits  [repeat:: every day]  [due:: 2026-03-10]
+- [ ] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-11]
+- [x] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
 
 ## 🧠 Mental & Focus
 

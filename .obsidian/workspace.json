@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Daily 2026/2026-03-10.md",
+                "file": "Templates/Task Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-10"
+              "title": "Task Inbox"
             }
           }
         ],
@@ -224,8 +224,8 @@
   },
   "active": "8c1bb8eb52490627",
   "lastOpenFiles": [
-    "Templates/Task Inbox.md",
     "00 Daily 2026/2026-03-10.md",
+    "Templates/Task Inbox.md",
     "Templates/Daily Note Template.md",
     "00 Daily 2026/2026-03-09.md",
     "Templates/Task Archive.md",
