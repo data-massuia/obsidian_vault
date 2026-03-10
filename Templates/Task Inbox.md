@@ -170,13 +170,20 @@
 
 ## 🚀 Career & Growth
 
-- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-10]
+- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-11]
+- [x] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-10]  [completion:: 2026-03-10]
 - [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday] [due:: 2026-03-15] 
 
+## 💼 Work
 
-
-
-
+- [x]  2026 Goals v 1 chat #work
+- [x] #work 1:1 Dishank
+- [ ] Revamp Customer Count Sheet #work 
+- [x] #work Call with Chelsea
+- [ ] #work Set Goals v2 for this week
+- [x] #work Set call with Dalyn
+- [ ] #work Backfill SPLUS customer Accounts
+- [ ] #work 
 
 
 
