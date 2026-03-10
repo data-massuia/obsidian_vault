@@ -123,6 +123,8 @@
 - [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-15]
 - [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-11]
 - [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-11]
+- [ ] Meditation 1 #td #mental  [repeat:: every day]  [due:: 2026-03-10]
+- [ ] Meditation 2 #td #mental  [repeat:: every day]  [due:: 2026-03-10]
 
 ## 💪 Body & Health
 
