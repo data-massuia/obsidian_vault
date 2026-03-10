@@ -117,7 +117,8 @@
 ## 🧠 Mental & Focus
 
 - [ ] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-09]
-- [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-09]
+- [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-10]
+- [x] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-09]  [completion:: 2026-03-09]
 - [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-15]
 - [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-10]
@@ -136,7 +137,8 @@
 - [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-10]
 - [ ] Date Night with Julia #td #family  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
 - [ ] Massagem Julia #td #family [due:: 2026-03-09] [repeat:: every week on Sunday]
-- [ ] Call Mother #td #family [due:: 2026-03-08] [repeat:: every week on Sunday]
+- [ ] Call Mother #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-15]
+- [x] Call Mother #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-08]  [completion:: 2026-03-09]
 
 ## 🏠 Housekeeping
 
@@ -167,7 +169,8 @@
 ## 🚀 Career & Growth
 
 - [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-10]
-- [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday]
+- [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday] [due:: 2026-03-15] 
+- [x] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday]  [completion:: 2026-03-09]
 
 
 
