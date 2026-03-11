@@ -182,7 +182,7 @@
 - [ ] #work National PPO
 - [ ] #work Update National Forecasts
 - [x] #work Call with Team
-- [ ] #work SPLUS - Confirm with Wing Queries
+- [x] #work SPLUS - Confirm with Wing Queries ✅ 2026-03-11
 - [ ] #work SPLUS - Meet Tab (maybe Heather and Chelsea) and ask about it
 - [ ] #work SPLUS - Explain to audience the methodology
 - [ ] #work Ask Dishank for CTAM PDFs
