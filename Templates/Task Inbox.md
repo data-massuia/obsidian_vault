@@ -188,7 +188,7 @@
 - [ ] #work Ask Dishank for CTAM PDFs
 - [ ] #work Ask Dishank who's new prime for Go East
 - [ ] #work Charles Request: HD + 4K customer breakdown
-- [ ] #work 
+- [ ] #work Automate 
 - [ ] #work 
 
 
