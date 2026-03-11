@@ -23,6 +23,6 @@ SORT due ASC
 ```dataview
 TASK
 FROM #td
-WHERE !completed AND due < date(today)
+WHERE !completed AND due < date(today) AND !contains(tags, "#work")
 SORT due ASC
 ```
