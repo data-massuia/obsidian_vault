@@ -182,7 +182,10 @@
 - [ ] #work National PPO
 - [ ] #work Update National Forecasts
 - [ ] #work Call with Team
-- [ ] 
+- [ ] #work SPLUS - Confirm with Wing Queries
+- [ ] #work SPLUS - Meet Tab (maybe Heather and Chelsea) and ask about it
+- [ ] #work SPLUS - Explain to audience the methodology
+- [ ] #work 
 
 
 
