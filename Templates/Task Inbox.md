@@ -185,6 +185,8 @@
 - [ ] #work SPLUS - Confirm with Wing Queries
 - [ ] #work SPLUS - Meet Tab (maybe Heather and Chelsea) and ask about it
 - [ ] #work SPLUS - Explain to audience the methodology
+- [ ] #work Ask Dishank for CTAM PDFs
+- [ ] #work Ask Dishank who's new prime for Go East
 - [ ] #work 
 
 
