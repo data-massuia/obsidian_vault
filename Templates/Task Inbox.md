@@ -177,16 +177,18 @@
 
 - [ ] #work Revamp Customer Count Sheet 
 - [ ] #work Set Goals v2 for this week
-- [ ] #work Backfill SPLUS customer Accounts
+- [x] #work Backfill SPLUS customer Accounts ✅ 2026-03-11
 - [ ] #work Check Go East PPV Transactions
 - [ ] #work National PPO
 - [ ] #work Update National Forecasts
-- [ ] #work Call with Team
+- [x] #work Call with Team
 - [ ] #work SPLUS - Confirm with Wing Queries
 - [ ] #work SPLUS - Meet Tab (maybe Heather and Chelsea) and ask about it
 - [ ] #work SPLUS - Explain to audience the methodology
 - [ ] #work Ask Dishank for CTAM PDFs
 - [ ] #work Ask Dishank who's new prime for Go East
+- [ ] #work Charles Request: HD + 4K customer breakdown
+- [ ] #work 
 - [ ] #work 
 
 
