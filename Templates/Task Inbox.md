@@ -105,23 +105,23 @@
 
 ## 🌅 Habits
 
-- [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-12]
+- [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-13]
 - [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-12]
+- [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-13]
 - [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-12]
+- [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-13]
 
 ## 🧠 Mental & Focus
 
 - [ ] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-12]
+- [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-13]
 - [ ] Meditation 1 #td #mental  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Meditation 2 #td #mental  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-15]
@@ -136,7 +136,7 @@
 
 ## 👨‍👩‍👧 Family & Relationships
 
-- [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-12]
+- [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-13]
 - [ ] Massagem Julia #td #family [due:: 2026-03-09] [repeat:: every week on Sunday]
 - [ ] Call Mother #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-15]
 - [ ] Date Night with Julia #td #family  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
@@ -146,10 +146,10 @@
 - [ ] Do the Laundry #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Take out the Trash #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Water Plants #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
-- [ ] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-10]
+- [ ] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Margot Box #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
 - [ ] Mop the Floors #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
-- [ ] Desinfect Garbage Cans #td #house  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
+- [ ] Disinfect Garbage Cans #td #house  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
 - [ ] Clean SandBox, Change Sand #td #house  [repeat:: every 2 weeks on Sunday]  [due:: 2026-03-22]
 - [ ] Weekly Meal Prep #td #house  [repeat:: every week on Sunday]  [due:: 2026-03-15]
 - [ ] Closet Organization #td #house [due:: 2026-03-08] [repeat:: every month on Sunday]
@@ -169,7 +169,7 @@
 
 ## 🚀 Career & Growth
 
-- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-12]
+- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-13]
 - [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday] [due:: 2026-03-15] 
 
 ## 💼 Work
@@ -183,10 +183,14 @@
 - [ ] #work SPLUS - Explain to audience the methodology
 - [ ] #work Ask Dishank for CTAM PDFs
 - [ ] #work Ask Dishank who's new prime for Go East
-- [ ] #work Charles Request: HD + 4K customer breakdown
-- [ ] #work Automate Weekly Studios using Connected Sheets
+- [ ] #work Charles Request: Create queries
+- [ ] #work Charles Request: Validate Queries with Wing and Chelsea
 - [ ] #work SPLUS - Review Wing's query and identify diff
+- [ ] #work Email to Sarah [due:: 2026-03-13] 
+- [ ] #work Create weekly research agent to get news from industry (quick newsletter)
+- [ ] #work Revamp monthly results
 - [ ] #work 
+
 
 
 
