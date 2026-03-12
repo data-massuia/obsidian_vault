@@ -189,6 +189,10 @@
 - [ ] #work Email to Sarah [due:: 2026-03-13] 
 - [ ] #work Create weekly research agent to get news from industry (quick newsletter)
 - [ ] #work Revamp monthly results
+- [ ] #work Tita and David Settlement Reques
+- [ ] #work Clean Emails
+- [x] #work Msg to David about Settlement request
+- [x] #work Request Dalyn's clarification on Copyright Board email
 - [ ] #work 
 
 
