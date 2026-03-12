@@ -107,10 +107,10 @@
 
 - [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-11]
-- [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-11]
+- [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-12]
+- [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-12]
-- [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-11]
+- [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-11]
 - [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-11]
 - [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-12]
@@ -128,10 +128,10 @@
 
 ## 💪 Body & Health
 
-- [ ] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-11]
+- [ ] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Weigh In #td #health  [repeat:: every day]  [due:: 2026-03-12]
 - [ ] Run #td #health  [repeat:: every week on Tuesday]  [due:: 2026-03-17]
-- [ ] Workout #td #health  [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]  [due:: 2026-03-11]
+- [ ] Workout #td #health  [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]  [due:: 2026-03-12]
 - [ ] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-11]
 
 ## 👨‍👩‍👧 Family & Relationships
@@ -186,6 +186,7 @@
 - [ ] #work Charles Request: HD + 4K customer breakdown
 - [ ] #work Automate Weekly Studios using Connected Sheets
 - [ ] #work 
+
 
 
 

@@ -134,3 +134,8 @@
 - [x] Weigh In #td #health  [repeat:: every day]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
 - [x] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
 - [x] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
+- [x] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
+- [x] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
+- [x] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
+- [x] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
+- [x] Workout #td #health  [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]  [due:: 2026-03-11]  [completion:: 2026-03-11] (archived: 2026-03-12)
