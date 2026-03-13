@@ -165,7 +165,7 @@
 ## 💰 Finance
 
 - [ ] Weekly Budget Check #td #finance  [repeat:: every week on Sunday]  [due:: 2026-03-15]
-- [ ] Pay Rent #td #finance [due:: 2026-04-01] [repeat:: every month]
+- [ ] Pay Rent #td #finance [due:: 2026-04-01] [repeat:: every month] 
 
 ## 🚀 Career & Growth
 
@@ -201,6 +201,7 @@
 ### Cool Stuff
 
 - [ ] #work Create weekly research agent to get news from industry (quick newsletter)
+- [ ] #work Meet Dalyn/Chelsea/Feng to talk about AI Agent 
 
 ### Goals 2026
 
