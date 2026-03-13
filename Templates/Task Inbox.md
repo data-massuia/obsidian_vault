@@ -174,26 +174,43 @@
 
 ## 💼 Work
 
+#work 
+### Revamp Reports
+
 - [ ] #work Revamp Customer Count Sheet 
-- [ ] #work Set Goals v2 for this week
-- [ ] #work Check Go East PPV Transactions
+- [ ] #work Revamp Monthly Results
+- [ ] #work Revamp Scorecards Results
+
+### Monthly Reports
+
 - [ ] #work National PPO
 - [ ] #work Update National Forecasts
+### Ad Hoc
+
+- [ ] #work #fix Check Go East PPV Transactions
+- [ ] #work SPLUS - Review Wing's query and identify diff
 - [ ] #work SPLUS - Meet Tab (maybe Heather and Chelsea) and ask about it
 - [ ] #work SPLUS - Explain to audience the methodology
 - [ ] #work Ask Dishank for CTAM PDFs
 - [ ] #work Ask Dishank who's new prime for Go East
 - [ ] #work Charles Request: Create queries
 - [ ] #work Charles Request: Validate Queries with Wing and Chelsea
-- [ ] #work SPLUS - Review Wing's query and identify diff
 - [ ] #work Email to Sarah [due:: 2026-03-13] 
+- [ ] #work Tita and David Settlement Request
+
+### Cool Stuff
+
 - [ ] #work Create weekly research agent to get news from industry (quick newsletter)
-- [ ] #work Revamp monthly results
-- [ ] #work Tita and David Settlement Reques
-- [ ] #work Clean Emails
-- [x] #work Msg to David about Settlement request
-- [x] #work Request Dalyn's clarification on Copyright Board email
+
+### Goals 2026
+
+- [ ] #work Set Goals v2 for this week
+- [ ] #work Review Video Roadmap 2026
+
+
 - [ ] #work 
+
+
 
 
 

@@ -157,3 +157,6 @@
 - [x] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-10]  [completion:: 2026-03-12] (archived: 2026-03-12)
 - [x] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-12]  [completion:: 2026-03-12] (archived: 2026-03-12)
 - [x] #work Automate Weekly Studios using Connected Sheets (archived: 2026-03-12)
+- [x] #work Msg to David about Settlement request (archived: 2026-03-13)
+- [x] #work Request Dalyn's clarification on Copyright Board email (archived: 2026-03-13)
+- [x] #work Clean Emails (archived: 2026-03-13)
