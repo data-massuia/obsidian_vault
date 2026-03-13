@@ -181,6 +181,7 @@
 - [ ] #work Revamp Monthly Results
 - [ ] #work Revamp Scorecards Results
 
+
 ### Monthly Reports
 
 - [ ] #work National PPO
@@ -201,7 +202,7 @@
 ### Cool Stuff
 
 - [ ] #work Create weekly research agent to get news from industry (quick newsletter)
-- [ ] #work Meet Dalyn/Chelsea/Feng to talk about AI Agent 
+- [ ] #work Meet Dalyn/Chelsea/Feng to talk about AI Agent [due:: 2026-03-17] 
 
 ### Goals 2026
 
