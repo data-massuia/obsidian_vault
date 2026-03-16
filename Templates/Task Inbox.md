@@ -196,8 +196,8 @@
 - [ ] #work Ask Dishank who's new prime for Go East
 - [ ] #work Charles Request: Create queries
 - [ ] #work Charles Request: Validate Queries with Wing and Chelsea
-- [ ] #work Email to Sarah [due:: 2026-03-13] 
-- [ ] #work Tita and David Settlement Request
+- [x] #work Email to Sarah [due:: 2026-03-13] ✅ 2026-03-16
+- [x] #work Tita and David Settlement Request ✅ 2026-03-16
 
 ### Cool Stuff
 
