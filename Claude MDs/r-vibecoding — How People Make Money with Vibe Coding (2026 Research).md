@@ -182,19 +182,19 @@ Building complex, specific tools for industries.
 
 ## 📋 Posts Referenced (2026)
 
-| Post Title | Upvotes | Comments | Notes |
-|---|---|---|---|
-| 99% of games/apps don't make any money. Why do vibecoders think it's different? | ~0 | 36 | Skeptical framing, good community debate |
-| Just hit $7k MRR on my vibe coded SaaS **UPDATE** | ~1 | 32 | High engagement, update post |
-| 30 Sales in last 10 days | ~0 | 0 | Open source + BYOK model, $150 total |
-| Serious question — any vibe coders here actually make money? | 59 | 158 | Rich community responses |
-| 99% of vibe coders will never make a dollar | 479 | 173 | Most upvoted on topic |
-| Has Anyone made real money with vibecoded apps? | 74 | 163 | Good real examples in comments |
-| Who saide vibe coding can't make money? 2 Weeks later after launch… | 176 | 72 | iOS app, $65 in 2 weeks |
-| There are a lot of people vibecoding and making money, you just won't see them on here | ~3 | ~8 | Meta-observation post |
-| Has anyone actually vibe coded themselves into a job or real income? | ~51 | ~20+ | Very rich comments, real income stories |
-| Anyone actually make money? | ~25 | ~20+ | SE with 7 years exp asking |
-| I love Vibe Coding but I need to be real... | 230 | 306 | Complex builds showcase |
+| Post Title | Upvotes | Comments | Notes | Link |
+|---|---|---|---|---|
+| 99% of games/apps don't make any money. Why do vibecoders think it's different? | ~0 | 36 | Skeptical framing, good community debate | [Link](https://www.reddit.com/r/vibecoding/comments/1rvb0jd/99_of_gamesapps_dont_make_any_money_why_do/) |
+| Just hit $7k MRR on my vibe coded SaaS **UPDATE** | ~1 | 32 | High engagement, update post | [Link](https://www.reddit.com/r/vibecoding/comments/1rv9z4x/just_hit_7k_mrr_on_my_vibe_coded_saas_update/) |
+| 30 Sales in last 10 days | ~0 | 0 | Open source + BYOK model, $150 total | [Link](https://www.reddit.com/r/vibecoding/comments/1rvc49q/30_sales_in_last_10_days/) |
+| Serious question — any vibe coders here actually make money? | 59 | 158 | Rich community responses | [Link](https://www.reddit.com/r/vibecoding/comments/1qfnj37/serious_question_any_vibe_coders_here_actually/) |
+| 99% of vibe coders will never make a dollar | 479 | 173 | Most upvoted on topic | [Link](https://www.reddit.com/r/vibecoding/comments/1rb11dz/99_of_vibe_coders_will_never_make_a_dollar/) |
+| Has Anyone made real money with vibecoded apps? | 74 | 163 | Good real examples in comments | [Link](https://www.reddit.com/r/vibecoding/comments/1r7ioxy/has_anyone_made_real_money_with_vibecoded_apps/) |
+| Who saide vibe coding can't make money? 2 Weeks later after launch… | 176 | 72 | iOS app, $65 in 2 weeks | [Link](https://www.reddit.com/r/vibecoding/comments/1qz2c1m/who_saide_vibe_coding_cant_make_money_2_weeks/) |
+| There are a lot of people vibecoding and making money, you just won't see them on here | ~3 | ~8 | Meta-observation post | [Link](https://www.reddit.com/r/vibecoding/comments/1rk3bae/there_are_a_lot_of_people_vibecoding_and_making/) |
+| Has anyone actually vibe coded themselves into a job or real income? | ~51 | ~20+ | Very rich comments, real income stories | [Link](https://www.reddit.com/r/vibecoding/comments/1rumtkr/has_anyone_actually_vibe_coded_them_selves_into_a/) |
+| Anyone actually make money? | ~25 | ~20+ | SE with 7 years exp asking | [Link](https://www.reddit.com/r/vibecoding/comments/1rfvumm/anyone_actually_make_money/) |
+| I love Vibe Coding but I need to be real... | 230 | 306 | Complex builds showcase | [Link](https://www.reddit.com/r/vibecoding/comments/1rjhvfd/i_love_vibe_coding_but_i_need_to_be_real/) |
 
 ---
 
