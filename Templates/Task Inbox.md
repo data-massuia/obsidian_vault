@@ -105,62 +105,62 @@
 
 ## 🌅 Habits
 
-- [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-14]
-- [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-14]
-- [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-14]
-- [ ] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-17]
+- [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-17]
+- [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-17]
+- [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-17]
+- [ ] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-16]
 
 ## 🧠 Mental & Focus
 
-- [ ] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-14]
-- [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-14]
-- [ ] Meditation 1 #td #mental  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Meditation 2 #td #mental  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-15]
+- [ ] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-17]
+- [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-17]
+- [ ] Meditation 1 #td #mental  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Meditation 2 #td #mental  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-22]
 
 ## 💪 Body & Health
 
-- [ ] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] Weigh In #td #health  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] Weigh In #td #health  [repeat:: every day]  [due:: 2026-03-16]
 - [ ] Run #td #health  [repeat:: every week on Tuesday]  [due:: 2026-03-17]
-- [ ] Workout #td #health  [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]  [due:: 2026-03-14]
-- [ ] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Workout #td #health  [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]  [due:: 2026-03-18]
+- [ ] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-16]
 
 ## 👨‍👩‍👧 Family & Relationships
 
-- [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-13]
+- [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-16]
 - [ ] Massagem Julia #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-15]
-- [ ] Call Mother #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-15]
+- [ ] Call Mother #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-22]
 - [ ] Date Night with Julia #td #family  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
 
 ## 🏠 Housekeeping
 
-- [ ] Do the Laundry #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
-- [ ] Take out the Trash #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
-- [ ] Water Plants #td #house [due:: 2026-03-07] [repeat:: every week on Saturday]
-- [ ] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
+- [ ] Do the Laundry #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-21]
+- [ ] Take out the Trash #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-21]
+- [ ] Water Plants #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
+- [ ] Clean Waterfountain / Food Bowls #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-21]
 - [ ] Margot Box #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
-- [ ] Mop the Floors #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-14]
+- [ ] Mop the Floors #td #house  [repeat:: every week on Saturday]  [due:: 2026-03-21]
 - [ ] Disinfect Garbage Cans #td #house  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
 - [ ] Clean SandBox, Change Sand #td #house  [repeat:: every 2 weeks on Sunday]  [due:: 2026-03-22]
-- [ ] Weekly Meal Prep #td #house  [repeat:: every week on Sunday]  [due:: 2026-03-15]
+- [ ] Weekly Meal Prep #td #house  [repeat:: every week on Sunday]  [due:: 2026-03-22]
 - [ ] Closet Organization #td #house [due:: 2026-03-08] [repeat:: every month on Sunday]
-- [ ] Wash Windows #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-15]
-- [ ] Wash Duvets #td #house  [repeat:: every 3 months on Sunday]  [due:: 2026-03-15]
-- [ ] DeepClean Fridge #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-15]
-- [ ] Clean Pillows and Blankets #td #house  [repeat:: every 3 months on Sunday]  [due:: 2026-03-15]
-- [ ] Clean Pantry #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-15]
-- [ ] Clean Walls and Wax Floors #td #house  [repeat:: every 3 months on Sunday]  [due:: 2026-03-15]
-- [ ] Clean Kitchen and Bathroom Cabinets #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-15]
-- [ ] Clean inside Oven #td #house [repeat:: every month on Sunday]  [due:: 2026-03-15]
+- [ ] Wash Windows #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-22]
+- [ ] Wash Duvets #td #house  [repeat:: every 3 months on Sunday]  [due:: 2026-03-22]
+- [ ] DeepClean Fridge #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-22]
+- [ ] Clean Pillows and Blankets #td #house  [repeat:: every 3 months on Sunday]  [due:: 2026-03-22]
+- [ ] Clean Pantry #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-22]
+- [ ] Clean Walls and Wax Floors #td #house  [repeat:: every 3 months on Sunday]  [due:: 2026-03-22]
+- [ ] Clean Kitchen and Bathroom Cabinets #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-22]
+- [ ] Clean inside Oven #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-22]
 
 ## 💰 Finance
 
@@ -169,8 +169,8 @@
 
 ## 🚀 Career & Growth
 
-- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-13]
-- [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday] [due:: 2026-03-15] 
+- [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-16]
+- [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday]  [due:: 2026-03-16]
 
 ## 💼 Work
 
@@ -211,6 +211,7 @@
 
 
 - [ ] #work 
+
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Task Inbox.md",
+                "file": "00 Daily 2026/2026-03-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Inbox"
+              "title": "2026-03-16"
             }
           }
         ]
@@ -209,12 +209,13 @@
   },
   "active": "8c1bb8eb52490627",
   "lastOpenFiles": [
+    "Templates/Task Inbox.md",
+    "00 Daily 2026/2026-03-16.md",
     "Learning/Fuel iX/Fuel iX — My Project — Sales Intelligence Copilot.md",
     "Learning/Fuel iX/Fuel iX — How to Create a Copilot.md",
     "Learning/Fuel iX/Fuel iX — Platform Overview.md",
     "Learning/Fuel iX",
     "00 Daily 2026/2026-03-13.md",
-    "Templates/Task Inbox.md",
     "00 Daily 2026/2026-03-12.md",
     "Learning/How to Build Better Claude Skills.md",
     "Learning/Claude Main Features.md",
@@ -237,7 +238,6 @@
     "CLAUDE.md",
     "Youtube/Untitled.md",
     "Youtube",
-    "00 Daily 2026/2026-02-20.md",
     "00 Daily 2026",
     "Untitled.base",
     "Monthly Notes",
