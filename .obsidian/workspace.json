@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Daily 2026/2026-03-17.md",
+                "file": "Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-17"
+              "title": "Daily Note Template"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "8c1bb8eb52490627",
   "lastOpenFiles": [
-    "Templates/Task Inbox.md",
     "00 Daily 2026/2026-03-17.md",
+    "Templates/Task Inbox.md",
     "00 Daily 2026/2026-03-16.md",
     "Claude MDs/r-vibecoding — How People Make Money with Vibe Coding (2026 Research).md",
     "Learning/Fuel iX/Fuel iX — My Project — Sales Intelligence Copilot.md",
