@@ -153,7 +153,6 @@
 - [ ] Clean SandBox, Change Sand #td #house  [repeat:: every 2 weeks on Sunday]  [due:: 2026-03-22]
 - [ ] Weekly Meal Prep #td #house  [repeat:: every week on Sunday]  [due:: 2026-03-22]
 - [ ] Closet Organization #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-15]
-- [x] Closet Organization #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-08]  [completion:: 2026-03-17]
 - [ ] Wash Windows #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-22]
 - [ ] Wash Duvets #td #house  [repeat:: every 3 months on Sunday]  [due:: 2026-03-22]
 - [ ] DeepClean Fridge #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-22]
@@ -210,6 +209,7 @@
 
 
 - [ ] #work 
+
 
 
 

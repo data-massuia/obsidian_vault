@@ -286,3 +286,4 @@
 - [x] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-16]  [completion:: 2026-03-17] (archived: 2026-03-17)
 - [x] #work Email to Sarah [due:: 2026-03-13] ✅ 2026-03-16 (archived: 2026-03-17)
 - [x] #work Tita and David Settlement Request ✅ 2026-03-16 (archived: 2026-03-17)
+- [x] Closet Organization #td #house  [repeat:: every month on Sunday]  [due:: 2026-03-08]  [completion:: 2026-03-17] (archived: 2026-03-17)
