@@ -203,8 +203,12 @@
 
 ### Goals 2026
 
-- [ ] #work Set Goals v2 for this week
+- [ ] #work Set Goals v2 for this week 
 - [ ] #work Review Video Roadmap 2026
+- [ ] #work CJA - TALK TO DALYN
+- [ ] #work New stuff in Conviva?
+- [ ] #work App Data health Analysis
+- [ ] #work 
 
 
 - [ ] #work 
