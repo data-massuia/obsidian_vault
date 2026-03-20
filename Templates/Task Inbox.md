@@ -106,61 +106,37 @@
 ## 🌅 Habits
 
 - [ ] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Wake Up on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
 - [ ] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Breakfast #td #habits  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
 - [ ] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Water 2L #td #habits  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Vitamins #td #habits  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
 - [ ] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
-- [x] Lunch #td #habits  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
-- [x] Dinner #td #habits  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Floss Teeth #td #habits  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Sleep on Schedule #td #habits  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Medicine #td #habits  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
 - [ ] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Care of Nails #td #habits  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 
 ## 🧠 Mental & Focus
 
 - [ ] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Morning Journal #td #mental  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Review Tomorrow's Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Refazer a Lista #td #mental  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
 - [ ] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Calendar #td #mental  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
 - [ ] Meditation 1 #td #mental  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Meditation 1 #td #mental  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
-- [x] Meditation 1 #td #mental  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Meditation 2 #td #mental  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Meditation 2 #td #mental  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Weekly Review #td #mental  [repeat:: every week on Sunday]  [due:: 2026-03-22]
 
 ## 💪 Body & Health
 
 - [ ] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Stretch / Mobility #td #health  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Weigh In #td #health  [repeat:: every day]  [due:: 2026-03-20]
-- [x] Weigh In #td #health  [repeat:: every day]  [due:: 2026-03-19]  [completion:: 2026-03-19]
 - [ ] Run #td #health  [repeat:: every week on Tuesday]  [due:: 2026-03-24]
 - [ ] Workout #td #health  [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]  [due:: 2026-03-19]
-- [x] Workout #td #health  [repeat:: every week on Wednesday, Thursday, Saturday, Sunday]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Walk Tofu #td #health  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 
 ## 👨‍👩‍👧 Family & Relationships
 
 - [ ] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Quality Time with Baby #td #family  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] Massagem Julia #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-15]
 - [ ] Call Mother #td #family  [repeat:: every week on Sunday]  [due:: 2026-03-22]
 - [ ] Date Night with Julia #td #family  [repeat:: every 2 weeks on Saturday]  [due:: 2026-03-21]
@@ -194,7 +170,6 @@
 ## 🚀 Career & Growth
 
 - [ ] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-19]
-- [x] Read / Listen 20 min #td #growth  [repeat:: every day]  [due:: 2026-03-18]  [completion:: 2026-03-19]
 - [ ] LinkedIn Post or Note #td #growth  [repeat:: every week on Monday]  [due:: 2026-03-23]
 
 ## 💼 Work
@@ -237,6 +212,7 @@
 
 
 - [ ] #work 
+
 
 
 
