@@ -192,7 +192,7 @@
 - [ ] #work SPLUS - Review Wing's query and identify diff
 - [ ] #work SPLUS - Meet Tab (maybe Heather and Chelsea) and ask about it
 - [ ] #work SPLUS - Explain to audience the methodology
-- [ ] #work Ask Dishank who's new prime for Go East
+- [x] #work Ask Dishank who's new prime for Go East ✅ 2026-03-24
 - [ ] #work Charles Request: Create queries
 - [ ] #work Charles Request: Validate Queries with Wing and Chelsea
 
