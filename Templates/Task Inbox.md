@@ -211,6 +211,12 @@
 - [ ] #work 
 
 
+- [ ] #work VST - 
+- [ ] #work Goals
+- [ ] #work National PPO 
+- [ ] #work Charles
+- [ ] #work 
+- [ ] #work 
 - [ ] #work 
 
 
