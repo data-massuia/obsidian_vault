@@ -215,8 +215,9 @@ q# 🗓 Daily Schedule
 - [ ] #work Goals
 - [ ] #work National PPO 
 - [ ] #work Charles
-- [ ] #work DAvid's request
-- [ ] #work 
+- [ ] #work David's request
+- [ ] #work Meeting between Dalyn and Shruti
+- [ ] 
 - [ ] #work 
 
 
