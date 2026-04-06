@@ -205,7 +205,7 @@ q# 🗓 Daily Schedule
 
 - [ ] #work Set Goals v2 for this week 
 - [ ] #work Review Video Roadmap 2026
-- [ ] #work CJA - TALK TO DALYN
+- [x] #work CJA - TALK TO DALYN
 - [ ] #work New stuff in Conviva?
 - [ ] #work App Data health Analysis
 - [ ] #work 
@@ -214,11 +214,12 @@ q# 🗓 Daily Schedule
 - [ ] #work VST - 
 - [ ] #work Goals
 - [ ] #work National PPO 
-- [ ] #work Charles
+- [x] #work Charles
 - [ ] #work David's request
 - [ ] #work Meeting between Dalyn and Shruti
-- [ ] 
+- [ ] #work CJA Merch Tactics
 - [ ] #work 
+- [ ] #work #work 
 
 
 
