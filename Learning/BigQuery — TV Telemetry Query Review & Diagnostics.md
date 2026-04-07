@@ -249,22 +249,173 @@ ORDER BY Device_ID
 
 ## Root Causes Found
 
-PLACEHOLDER_ROOT_CAUSES
+Two distinct root causes were identified for the 47k unmatched devices:
+
+### Root Cause 1: `tv_acct_extrnl_id IS NOT NULL` filter dropping ~7k devices
+The `customer_classification` CTE had `AND tv_acct_extrnl_id IS NOT NULL`. Some devices exist in `tv_customer_ref` but have no account ID linked (the field is `NULL`). This filter silently excluded them from the CTE, causing the join to fail.
+
+**Fix:** Remove `AND tv_acct_extrnl_id IS NOT NULL` from the `customer_classification` CTE. The account ID is only needed for counting in the final SELECT — it doesn't need to be a join prerequisite.
+
+**Result:** Gap closed from 47k → 40k unmatched devices.
+
+### Root Cause 2: ~40k devices genuinely not in `tv_customer_ref`
+After all query logic fixes, 40,595 devices from `bq_telemetry` have no corresponding record in `tv_customer_ref` at all — confirmed by a raw join with no CAST/TRIM. These devices are sending telemetry but are not registered in the customer reference table.
+
+**Next step:** Escalate to data engineering team with a list of the unmatched device IDs for investigation.
+
+> **Note on `tv_customer_ref` table behavior:** This table is a daily snapshot — it adds new rows every day but never deletes old ones. Every device that has ever been provisioned should appear in it. Devices missing from this table are a genuine data gap.
 
 ---
 
 ## Customer ID Comparison Queries
 
-PLACEHOLDER_CUSTOMER_QUERIES
+### Count matched vs unmatched customers (telemetry vs customer ref)
+
+```sql
+DECLARE start_date DATE DEFAULT DATE_TRUNC(DATE_SUB(CURRENT_DATE(), INTERVAL 1 MONTH), MONTH);
+DECLARE end_date   DATE DEFAULT DATE_TRUNC(CURRENT_DATE(), MONTH);
+
+SELECT
+    COUNT(DISTINCT t.customer_id) AS total_telemetry_customers,
+    COUNT(DISTINCT CASE WHEN r.tv_acct_extrnl_id IS NOT NULL THEN t.customer_id END) AS matched_customers,
+    COUNT(DISTINCT CASE WHEN r.tv_acct_extrnl_id IS NULL THEN t.customer_id END) AS unmatched_customers,
+    (
+        SELECT COUNT(DISTINCT tv_acct_extrnl_id)
+        FROM `cio-datahub-enterprise-pr-183a.ent_usage_rated_tv.bq_tv_customer_ref`
+        WHERE tv_cust_ref_dt >= start_date AND tv_cust_ref_dt < end_date
+          AND LOWER(tv_clnt_typ_cd) LIKE 'telustv%'
+          AND tv_acct_extrnl_id IS NOT NULL
+    ) AS total_ref_customers
+FROM (
+    SELECT DISTINCT account[SAFE_OFFSET(0)].user_name AS customer_id
+    FROM `bi-srv-tv-opus-pr-3b70af.commscope_v2.bq_telemetry`
+    WHERE dt >= start_date AND dt < end_date
+      AND account[SAFE_OFFSET(0)].user_name IS NOT NULL
+      AND LENGTH(account[SAFE_OFFSET(0)].user_name) > 0
+) t
+LEFT JOIN (
+    SELECT DISTINCT TRIM(CAST(tv_acct_extrnl_id AS STRING)) AS tv_acct_extrnl_id
+    FROM `cio-datahub-enterprise-pr-183a.ent_usage_rated_tv.bq_tv_customer_ref`
+    WHERE tv_cust_ref_dt >= start_date AND tv_cust_ref_dt < end_date
+      AND LOWER(tv_clnt_typ_cd) LIKE 'telustv%'
+      AND tv_acct_extrnl_id IS NOT NULL
+) r ON t.customer_id = r.tv_acct_extrnl_id
+```
+
+> **Key field mapping:**
+> - Telemetry customer ID: `account[SAFE_OFFSET(0)].user_name`
+> - Customer ref account ID: `tv_acct_extrnl_id`
+
+### List of unmatched Customer IDs
+
+```sql
+DECLARE start_date DATE DEFAULT DATE_TRUNC(DATE_SUB(CURRENT_DATE(), INTERVAL 1 MONTH), MONTH);
+DECLARE end_date   DATE DEFAULT DATE_TRUNC(CURRENT_DATE(), MONTH);
+
+WITH
+deduplicated_source AS (
+    SELECT *
+    FROM `bi-srv-tv-opus-pr-3b70af.commscope_v2.bq_telemetry`
+    WHERE dt >= start_date AND dt < end_date
+    QUALIFY ROW_NUMBER() OVER (PARTITION BY dt, serial_num ORDER BY audit.created_ts DESC) = 1
+),
+telemetry_customers AS (
+    SELECT DISTINCT
+        DATE_TRUNC(dt, MONTH) AS Report_Month,
+        account[SAFE_OFFSET(0)].user_name AS Customer_ID
+    FROM deduplicated_source
+    WHERE account[SAFE_OFFSET(0)].user_name IS NOT NULL
+      AND LENGTH(account[SAFE_OFFSET(0)].user_name) > 0
+),
+customer_classification AS (
+    SELECT DISTINCT
+        DATE(DATE_TRUNC(tv_cust_ref_dt, MONTH)) AS Report_Month,
+        TRIM(CAST(tv_acct_extrnl_id AS STRING)) AS Account_ID
+    FROM `cio-datahub-enterprise-pr-183a.ent_usage_rated_tv.bq_tv_customer_ref`
+    WHERE tv_cust_ref_dt >= start_date AND tv_cust_ref_dt < end_date
+      AND tv_acct_extrnl_id IS NOT NULL
+)
+SELECT DISTINCT t.Customer_ID, t.Report_Month
+FROM telemetry_customers t
+LEFT JOIN customer_classification cust
+    ON t.Customer_ID = cust.Account_ID
+    AND t.Report_Month = cust.Report_Month
+WHERE cust.Account_ID IS NULL
+ORDER BY t.Customer_ID
+```
 
 ---
 
 ## Commscope CTE Replacement
 
-PLACEHOLDER_COMMSCOPE
+The old `commscope` CTE pulled from a staging table (`bi-stg-cabe-pr-dfe151.tableau_dataset.bq_commscope_device`) with a static date filter. It was replaced with the full telemetry pipeline from `bq_telemetry`.
+
+**Use case:** Compare devices in `bq_tv_program_watch_view` / `bq_tv_stb_vod_playback_view` against telemetry to check sync.
+
+```sql
+-- 1. Deduplicate telemetry source
+deduplicated_source AS (
+    SELECT *
+    FROM `bi-srv-tv-opus-pr-3b70af.commscope_v2.bq_telemetry`
+    WHERE dt >= start_date AND dt < end_date
+    QUALIFY ROW_NUMBER() OVER (PARTITION BY dt, serial_num ORDER BY audit.created_ts DESC) = 1
+),
+-- 2. Parse events
+parsed_telemetry AS (
+    SELECT
+        t.serial_num AS Device_ID,
+        CAST(e.is_standby AS STRING) AS is_standby,
+        e.hdmi.status AS hdmi_status,
+        LEAST(e.usp_agent.delta_uptime, 905) AS duration_seconds
+    FROM deduplicated_source t,
+    UNNEST(t.event) AS e
+    WHERE LENGTH(serial_num) > 0
+),
+-- 3. Calculate hours per device (replaces old commscope CTE)
+commscope AS (
+    SELECT
+        Device_ID AS Stb_Id,
+        CAST(ROUND(SUM(CASE WHEN LOWER(is_standby) = 'false' AND LOWER(hdmi_status) = 'enabled'
+            THEN duration_seconds ELSE 0 END) / 3600, 2) AS NUMERIC) AS Stb_On_Tv_On
+    FROM parsed_telemetry
+    GROUP BY 1
+)
+```
+
+> **Red flags noted in the sync-check query:**
+> - **One-directional comparison** — original query only finds devices in viewership NOT in telemetry. Use `FULL OUTER JOIN` for a complete picture.
+> - **Mismatched filters** — viewership tables filter on `West`, `Opus`, `TELUSTV%` but telemetry CTE has no such filters. Not apples-to-apples.
+> - **Unnecessary hours calculation** — if only checking device existence, simplify `commscope` to `SELECT DISTINCT serial_num AS Stb_Id` to save cost.
 
 ---
 
 ## Final Recommendations
 
-PLACEHOLDER_FINAL
+### Query Fixes Applied
+1. ✅ **Remove `AND tv_acct_extrnl_id IS NOT NULL`** from `customer_classification` CTE — this was silently dropping ~7k devices that exist in the ref table but have no account linked.
+2. ✅ **Fix commented-out filter** — `cust_pltfrm_typ_cd` → `tv_pltfrm_typ_cd` if ever uncommented.
+3. ⚠️ **Confirm `UNNEST` behavior** — decide if devices with empty/null event arrays should be kept or dropped.
+
+### Data Engineering Escalation
+- ~40k devices from `bq_telemetry` have no record in `bq_tv_customer_ref` at all.
+- Use the unmatched device list query (Diagnostic Query #4) to export the device IDs and open a bug ticket.
+
+### Sync Check Best Practices
+When comparing devices across tables:
+- Use `FULL OUTER JOIN` instead of `LEFT JOIN` to catch mismatches in both directions.
+- Ensure filters are consistent across all tables being compared.
+- Use `COUNTIF(condition)` grouped by device to check if a device *ever* has a value, not just in one row.
+- Use `CONCAT('[', value, ']')` to visually expose hidden characters when debugging join mismatches.
+- Use `REGEXP_REPLACE(value, r'[^\x20-\x7E]', '?')` to detect non-ASCII/invisible characters.
+
+### Key BigQuery Concepts Used
+| Concept | Usage |
+|---|---|
+| `QUALIFY` | Filter on window functions without a subquery |
+| `ROW_NUMBER() OVER (PARTITION BY ... ORDER BY ...)` | Deduplicate keeping latest record per group |
+| `UNNEST()` | Flatten repeated/array fields into rows |
+| `LEAST()` | Cap a value at a maximum |
+| `SAFE_OFFSET(0)` | Access first element of an array without error on empty arrays |
+| `COUNTIF()` | Count rows matching a condition (BigQuery-specific) |
+| Scalar subquery | Independent `SELECT` inside a `SELECT` returning a single value |
+| `FULL OUTER JOIN` | Keep all rows from both tables, matching where possible |
