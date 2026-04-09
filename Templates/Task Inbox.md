@@ -216,8 +216,8 @@ q# 🗓 Daily Schedule
 - [ ] #work National PPO 
 - [x] #work Charles
 - [ ] #work David's request
-- [ ] #work Meeting between Dalyn and Shruti
-- [ ] #work Prepate for Sruthi Call
+- [x] #work Meeting between Dalyn and Shruti
+- [x] #work Prepate for Sruthi Call
 - [ ] #work CJA Merch Tactics
 - [ ] #work 
 - [ ] #work #work 
