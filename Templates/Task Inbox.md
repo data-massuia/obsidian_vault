@@ -184,7 +184,7 @@
 
 ### Monthly Reports
 
-- [ ] #work National PPO
+- [x] #work National PPO
 - [ ] #work Update National Forecasts
 ### Ad Hoc
 
@@ -193,13 +193,13 @@
 - [ ] #work SPLUS - Meet Tab (maybe Heather and Chelsea) and ask about it
 - [ ] #work SPLUS - Explain to audience the methodology
 - [x] #work Ask Dishank who's new prime for Go East ✅ 2026-03-24
-- [ ] #work Charles Request: Create queries
-- [ ] #work Charles Request: Validate Queries with Wing and Chelsea
+- [x] #work Charles Request: Create queries
+- [x] #work Charles Request: Validate Queries with Wing and Chelsea
 
 ### Cool Stuff
 
 - [ ] #work Create weekly research agent to get news from industry (quick newsletter)
-- [ ] #work Meet Dalyn/Chelsea/Feng to talk about AI Agent [due:: 2026-03-24] 
+- [x] #work Meet Dalyn/Chelsea/Feng to talk about AI Agent [due:: 2026-03-24] 
 
 ### Goals 2026
 
@@ -213,13 +213,13 @@
 
 - [ ] #work VST - 
 - [ ] #work Goals
-- [ ] #work National PPO 
+- [x] #work National PPO 
 - [x] #work Charles
 - [ ] #work David's request
 - [x] #work Meeting between Dalyn and Shruti
 - [x] #work Prepate for Sruthi Call
 - [ ] #work CJA Merch Tactics
-- [ ] #work 
+- [ ] #work FRONT DOOR
 - [ ] #work #work 
 
 
